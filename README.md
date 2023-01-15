@@ -56,7 +56,7 @@ Dibangun dengan website lokalan .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Terimakaih
+# Terima kasih
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
