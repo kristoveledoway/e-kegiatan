@@ -1,0 +1,127 @@
+CRITICAL - 2022-12-16 09:30:33 --> Undefined variable $pegawais
+in APPPATH\Views\pegawai\v_edit_pegawai.php on line 120.
+ 1 APPPATH\Views\pegawai\v_edit_pegawai.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pegawai\\v_edit_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\C_Pegawai.php(54): view()
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Pegawai->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 09:32:43 --> Undefined variable $pegawais
+in APPPATH\Views\pegawai\v_edit_pegawai.php on line 120.
+ 1 APPPATH\Views\pegawai\v_edit_pegawai.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pegawai\\v_edit_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\C_Pegawai.php(54): view()
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Pegawai->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 09:32:45 --> Undefined variable $pegawais
+in APPPATH\Views\pegawai\v_edit_pegawai.php on line 120.
+ 1 APPPATH\Views\pegawai\v_edit_pegawai.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pegawai\\v_edit_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\C_Pegawai.php(54): view()
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Pegawai->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 09:32:50 --> Undefined variable $pegawais
+in APPPATH\Views\pegawai\v_edit_pegawai.php on line 120.
+ 1 APPPATH\Views\pegawai\v_edit_pegawai.php(120): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pegawai\\v_edit_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\C_Pegawai.php(54): view()
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Pegawai->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 10:49:54 --> Undefined variable $pegawai
+in APPPATH\Views\jabatan\v_edit_jabatan.php on line 127.
+ 1 APPPATH\Views\jabatan\v_edit_jabatan.php(127): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\jabatan\\v_edit_jabatan.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\C_Jabatan.php(54): view()
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Jabatan->edit()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:26:06 --> Class "App\Controllers\M_pegawai" not found
+in APPPATH\Controllers\C_Master_pegawai.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:27:02 --> Undefined property: App\Controllers\C_Master_pegawai::$model
+in APPPATH\Controllers\C_Master_pegawai.php on line 25.
+ 1 APPPATH\Controllers\C_Master_pegawai.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:27:44 --> Call to undefined method App\Models\M_pegawai::getAll
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\C_Master_pegawai.php(25): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:28:46 --> Call to undefined method App\Models\M_pegawai::getAll
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\C_Master_pegawai.php(25): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:28:47 --> Call to undefined method App\Models\M_pegawai::getAll
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\C_Master_pegawai.php(25): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:28:48 --> Call to undefined method App\Models\M_pegawai::getAll
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\C_Master_pegawai.php(25): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:28:48 --> Call to undefined method App\Models\M_pegawai::getAll
+in SYSTEMPATH\Model.php on line 774.
+ 1 APPPATH\Controllers\C_Master_pegawai.php(25): CodeIgniter\Model->__call()
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-12-16 18:38:51 --> Undefined variable $jabatan
+in APPPATH\Views\master_pegawai\v_tambah_master_pegawai.php on line 139.
+ 1 APPPATH\Views\master_pegawai\v_tambah_master_pegawai.php(139): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\master_pegawai\\v_tambah_master_pegawai.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render()
+ 5 APPPATH\Controllers\C_Master_pegawai.php(28): view()
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Master_pegawai->tambah_data()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')

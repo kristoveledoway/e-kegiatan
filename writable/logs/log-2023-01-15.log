@@ -1,0 +1,8 @@
+CRITICAL - 2023-01-15 11:13:52 --> Creation of dynamic property App\Controllers\C_Kinerja_harian::$master_pegawai is deprecated
+in APPPATH\Controllers\C_Kinerja_harian.php on line 69.
+ 1 APPPATH\Controllers\C_Kinerja_harian.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dynamic property App\\Controllers\\C_Kinerja_harian::$master_pegawai is deprecated', 'APPPATH\\Controllers\\C_Kinerja_harian.php', 69)
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\C_Kinerja_harian->edit('14')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\C_Kinerja_harian))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
